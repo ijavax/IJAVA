@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>https://qdhw8.leaderhero.com/new2/20200430/Instagram_v138.0_os12.2__200430164125_pandahelp.vip.ipa</string>
+               </dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://im5.tongbu.com/userapp/AppIcon/201908/19/020231723.jpg</string>
+				</dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>https://im5.tongbu.com/userapp/AppIcon/201908/19/020231723.jpg</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.burbn.instagram1</string>
+               <key>bundle-version</key>
+               <string>138.0</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>同步网络</string>
+               <key>title</key>
+               <string>Instagram ++ Rhino(138.0) Telegram : @TakenPubg</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
