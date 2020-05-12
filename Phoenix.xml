@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>https://qdhw6.leaderhero.com/new2/20200423/Phnix_v5.0_os6.0__200423141034_tongbu_pandahelp.vip.ipa</string>
+               </dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://im5.pandahelp.vip/userapp/AppIcon/201708/08/032140950.jpg</string>
+				</dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://im5.pandahelp.vip/userapp/AppIcon/201708/08/032140950.jpg</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>supplies.wall.phoenix</string>
+               <key>bundle-version</key>
+               <string>5.0</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>同步网络</string>
+               <key>title</key>
+               <string>Phœnix jailbreak tool(5.0)</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
