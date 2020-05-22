@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://download.wetransfer.com//eu2/56886362f14278596da2bfcaa6bfd72d20200522183853/9cb311e43b09dee857f688febbc412bb391dc2b0/753049829.ipa?cf=y&token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTAxNzM0MzEsInVuaXF1ZSI6IjU2ODg2MzYyZjE0Mjc4NTk2ZGEyYmZjYWE2YmZkNzJkMjAyMDA1MjIxODM4NTMiLCJmaWxlbmFtZSI6Ijc1MzA0OTgyOS5pcGEiLCJob3QiOmZhbHNlLCJ3YXliaWxsX3VybCI6Imh0dHA6Ly9wcm9kdWN0aW9uLmJhY2tlbmQuc2VydmljZS5ldS13ZXN0LTEud3Q6OTI5Mi93YXliaWxsL3YxL3Nhcmthci9mOWI0NzBmYzZiYTEwYmE4YTdkNDcwMDAzNDAwYzdlY2JkYWUzYTY0MzM1NGMzNDJiZTExZmNjZGE1ZGIwZTk5ZDcwN2M0ZjJkMGZmZjE3MWJjM2Q0OCIsImZpbmdlcnByaW50IjoiOWNiMzExZTQzYjA5ZGVlODU3ZjY4OGZlYmJjNDEyYmIzOTFkYzJiMCIsImNhbGxiYWNrIjoie1wiZm9ybWRhdGFcIjp7XCJhY3Rpb25cIjpcImh0dHA6Ly9wcm9kdWN0aW9uLmZyb250ZW5kLnNlcnZpY2UuZXUtd2VzdC0xLnd0OjMwMDAvd2ViaG9va3MvYmFja2VuZFwifSxcImZvcm1cIjp7XCJ0cmFuc2Zlcl9pZFwiOlwiNTY4ODYzNjJmMTQyNzg1OTZkYTJiZmNhYTZiZmQ3MmQyMDIwMDUyMjE4Mzg1M1wiLFwiZG93bmxvYWRfaWRcIjo5MzY1MTQ0Nzg4fX0ifQ.ZQkOJ08dT--Jh7xo0vZ2j93Kiy3M92mTN170oibC0bI</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/ijavax/IJAVA/master/AppIcon60x60%402x.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/ijavax/IJAVA/master/AppIcon60x60%402x.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>org.cydia97.Afstore</string>
+				<key>bundle-version</key>
+				<string>3.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Jodel</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
