@@ -17,25 +17,29 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://assets.zyrosite.com/_SITE-ASSETS/YN8v088e81t05b1v/040317990.jpg</string>
+					<string>https://ia801404.us.archive.org/22/items/icon-144/AppIcon60x60%402x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://assets.zyrosite.com/_SITE-ASSETS/YN8v088e81t05b1v/040317990.jpg</string>
+					<string>https://ia801404.us.archive.org/22/items/icon-144/AppIcon60x60%402x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.iphonecake.appcakej</string>
+				<string>org.cydia97.Afstore</string>
 				<key>bundle-version</key>
-				<string>7.0.0</string>
+				<string>3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>unc0ver</string>
+				<string>
+unc0ver iOS 13.0-13.3/A12-A13
+ADNAN AND JAVA
+
+ </string>
 			</dict>
 		</dict>
 	</array>
